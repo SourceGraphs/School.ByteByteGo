@@ -3,6 +3,9 @@ Home:
 - chanel: https://www.youtube.com/@ByteByteGo
 
 # list:
+## my.Favorite
+- [Top 9 Must-Read Blogs for Engineers](https://youtu.be/UuT61kf292A)
+
 ## Featured
 - [How to Crack Any System Design Interview](https://youtu.be/o-k7h2G3Gco)
 
